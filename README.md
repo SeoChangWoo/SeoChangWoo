@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Unity](https://img.shields.io/badge/1-Unity-blue)
+![C#](https://img.shields.io/badge/2-C%23-red)
