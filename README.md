@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a school teacher and I am studying development hard.
+I am a school teacher and I am studying unity and C#.
 
 ### My tech stack 
 ![Unity](https://img.shields.io/badge/1-Unity-blue)
